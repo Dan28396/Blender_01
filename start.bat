@@ -1,0 +1,1 @@
+C:\Users\Lobchenko>C:\Program Files\Blender Foundation\Blender 2.81\blender.exe --background --python Desktop\Blender_01\bmesh_simple.py
